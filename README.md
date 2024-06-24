@@ -20,7 +20,7 @@ Welcome to my GitHub! I'm Quan, a Business Analytics major at DePauw University,
 
 - **FPT Software**: Optimized database management and information retrieval with MySQL and DBT, improving business performance by 20%. Led a team in financial data analysis, enhancing business intelligence acquisition by 15%.
 - **Vietcombank**: Managed business intelligence and financial performance estimation using Excel and SQL, overseeing data processes for investment projects spanning stock analysis to real estate market research.
-- 
+
 ## 📊 Key Projects
 
 - **Tennessee Real Estate Analysis**: Utilized MySQL and advanced SQL features like CTEs and Window Functions to analyze the real estate market in Tennessee, developing a program that calculates ROI for properties. Enhanced visualizations and reporting with Tableau.
