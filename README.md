@@ -1,4 +1,4 @@
-# Quan Nguyen
+# Hi, I'm Quan Nguyen
 
 Welcome to my GitHub! I'm Quan, a Business Analytics major at DePauw University, leveraging data to drive business decision-making processes.
 
