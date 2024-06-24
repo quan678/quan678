@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm Quan, a Business Analytics major at DePauw University,
 
 ## Life
 
-<img align="right" alt="the dark knight" width="350" src="img/github_pic" />
+<img align="right" alt="the dark knight" width="300" src="git_img/github_pic.webp" />
 
 - :shipit: Business Analytics Major @ [**DePauw University**]((https://www.depauw.edu/))
 - :shipit: Business Analyst Intern @ [**FPT Software**]((https://fptsoftware.com/))
@@ -35,10 +35,10 @@ ______________________________________________________________
 </p>
 <div>
 <a href="mailto:chinhquan67@gmail.com">
-    <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
+    <img height="32" align="left" alt="Mail" src="git_img/gmail.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/quannguyen67/">
-    <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
+    <img height="32" align="left" alt="LinkedIn" src="git_img/linkedin.png" />
 </a>
 </div>
