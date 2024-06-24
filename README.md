@@ -6,9 +6,9 @@ Welcome to my GitHub! I'm Quan, a Business Analytics major at DePauw University,
 
 <img align="right" alt="the dark knight" width="300" src="git_img/github_pic.webp" />
 
-- :shipit: Business Analytics Major @ [**DePauw University**]((https://www.depauw.edu/))
-- :shipit: Business Analyst Intern @ [**FPT Software**]((https://fptsoftware.com/))
-- :shipit: Event Coordinator @ [**DePauw Vietnamese Student Association**]((https://www.instagram.com/depauwvsa/))
+- :shipit: Business Analytics Major @ **[DePauw University](https://www.depauw.edu/)**
+- :shipit: Business Analyst Intern @ **[FPT Software](https://fptsoftware.com/)**
+- :shipit: Event Coordinator @ **[DePauw Vietnamese Student Association](https://www.instagram.com/depauwvsa/)**
 
 ## 🛠️ Technical Skills
 
