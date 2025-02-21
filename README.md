@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm Quan, a Business Analytics major at DePauw University,
 
 ## Life
 
-<img align="right" alt="Porsche 911 GT3 RS" width="350" height="300" src="git_img/bg1.jpg" />
+<img align="right" alt="Porsche 911 GT3 RS" width="350" height="270" src="git_img/bg1.jpg" />
 
 - :shipit: Business Analytics Major @ **[DePauw University](https://www.depauw.edu/)**
 - :shipit: Business Analyst Intern @ **[FPT Software](https://fptsoftware.com/)**
